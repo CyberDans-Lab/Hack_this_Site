@@ -1,7 +1,7 @@
 # Hack This Site
  
 ## Überblick
-Dieses Repository dient als umfassende Dokumentation meines Lernprozesses auf der Plattform Hack This Site(https://www.hackthissite.org/).
+Dieses Repository dient als umfassende Dokumentation meines Lernprozesses auf der Plattform ![Hack This Site](https://www.hackthissite.org/).
 Das Ziel ist das aktive Ausnutzen von Web-Schwachstellen, um zu verstehen, wie man Systeme und Anwendungen effektiv absichert – sowohl für eigene Projekte als auch im Berufsalltag.
 
 Zudem lerne ich, IT-Sicherheit aus der Perspektive eines Angreifers zu betrachten. Es geht immer darum, typische Schwachstellen zu identifizieren, den Weg des geringsten Widerstands zu finden und die Denkmuster hinter Exploits zu verstehen.
