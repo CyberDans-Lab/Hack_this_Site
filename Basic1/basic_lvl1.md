@@ -23,10 +23,12 @@ Beim Öffnen der Entwicklertools springt mir sofort ein grüner HTML-Kommentar i
 
 Nun verstehe ich auch, wieso dieses Level "Idiotentest" genannt wird. Ich kopiere das gefundene Passwort, füge es in das Formular ein und sende es ab. Daraufhin wird das Level erfolgreich bestanden.
 
-![Level erfolgreich bestanden](./img/5bestanden.png)
+
 --- 
 
 ## Lessons Learned
+
+![Level erfolgreich bestanden](./img/5bestanden.png)
 
 Große technische Schlüsse lassen sich aus diesem Level noch nicht ziehen, da es sehr einfach war. Allgemein lässt sich aber festhalten: Wenn man nicht genau weiß, was einen erwartet, sollte man sich immer zuerst einen Überblick verschaffen und in den Code schauen. Manchmal liegt die Antwort einem sprichwörtlich direkt vor der Nase.
 
