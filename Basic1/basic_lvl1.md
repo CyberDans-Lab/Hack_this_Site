@@ -26,7 +26,7 @@ Nun verstehe ich auch, wieso dieses Level "Idiotentest" genannt wird. Ich kopier
 
 --- 
 
-## Lessons Learned
+### Lessons Learned
 
 ![Level erfolgreich bestanden](./img/5bestanden.png)
 
